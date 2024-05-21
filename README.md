@@ -1,8 +1,8 @@
 # Netflix_Mirror
 
 <h3 align="center">
- Netflix_Mirrow preview <br/>
-  <a href="https://netflix-mirror-frontend.onrender.com"><img alt="Demo" src="./img.png" /> </a>
+ Netflix_Mirrow preview<br/>
+  <br/><a href="https://netflix-mirror-frontend.onrender.com"><img alt="Demo" src="./img.png" /> </a>
 </h3>
 
 ## 🙌 Introduction
